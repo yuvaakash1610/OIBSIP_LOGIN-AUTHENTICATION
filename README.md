@@ -579,6 +579,6 @@ See the LICENSE file for full details.
 <br/>
 
 https://github.com/yuvaakash1610
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+
 
 </div>
